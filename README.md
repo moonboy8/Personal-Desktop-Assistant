@@ -50,7 +50,6 @@ To use Desktop Voice Assistant, ensure the following dependencies are installed:
    python assistant.py
 
 
-
 ---
 
 ## Voice Commands
@@ -65,18 +64,7 @@ Here are some sample commands you can try:
 | "tell me a joke"     | Tells you a joke                    |
 | "exit"               | Closes the assistant                |
 
----
 
-## Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400?text=Main+Interface)
-
-### Listening Mode
-![Listening Mode](https://via.placeholder.com/800x400?text=Listening+Mode)
-
-### Help Menu
-![Help Menu](https://via.placeholder.com/800x400?text=Help+Menu)
 
 ---
 
@@ -89,8 +77,7 @@ Here are some sample commands you can try:
 
 ## Contact
 
-For questions or support, reach out at [your-email@example.com](mailto:your-email@example.com).
-
+For questions or support, reach out at [shri.boini@gmail.com].
 
 
 
